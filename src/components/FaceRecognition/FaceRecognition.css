@@ -1,0 +1,56 @@
+.bounding-box {
+  position: absolute;
+  box-shadow: inset 0 0 0 2px red;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.bounding-box2 {
+  position: absolute;
+  box-shadow: inset 0 0 0 2px blue;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.bounding-box3 {
+  position: absolute;
+  box-shadow: inset 0 0 0 2px mediumturquoise;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.message1 {
+  position: absolute;
+  top: 0;
+  left: 100%;
+  padding: 10px;
+  background-color: black;
+  color: #ffffff;
+  border: 1px solid black;
+}
+
+.message2 {
+  position: absolute;
+  top: 0;
+  left: 100%;
+  padding: 10px;
+  background-color: black;
+  color: #ffffff;
+  border: 1px solid black;
+}
+
+.message3 {
+  position: absolute;
+  top: 0;
+  right: 100%;
+  padding: 10px;
+  background-color: black;
+  color: #ffffff;
+  border: 1px solid black;
+}
